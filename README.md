@@ -13,9 +13,8 @@
 
 - 📧 Email: **eya.chtourou1@gmail.com**
 
-- 📄 I'm actively contributing to [an insurance project](an insurance project)
-
-<h3 align="left">Connect with me:</h3>
+- 📄 I'm actively contributing to an insurance project
+- 
 <p align="left">
 </p>
 
